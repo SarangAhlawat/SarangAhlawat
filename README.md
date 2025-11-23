@@ -16,7 +16,6 @@
 **LinkedIn:** [Sarang Ahlawat](https://www.linkedin.com/in/sarang-ahlawat/)
 **X.com:** [Sarang Ahlawat](https://x.com/SarangAhlawat08)
 
-![Sarang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarangAhlawat&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarangAhlawat&layout=compact&theme=dark)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
