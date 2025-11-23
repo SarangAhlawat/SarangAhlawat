@@ -1,8 +1,8 @@
 👋 Hey, I'm Sarang Ahlawat  
 # Developer • Community Builder • DevRel Enthusiast • Entrepreneur 
 
-🚀 I build impactful tech + communities:
-- DevRel & Community Operations @ GDG Cloud / Tech Clubs  
+🚀 I build impactful tech + communities + startups:
+- DevRel & Community Operations @ GDG Cloud Volunteer / President, Entrepreneurship Cell  
 - Web Dev (React, Next.js, Node.js, Supabase)  
 - AIML Projects • Hackathons • Startup Building  
 - Advocacy: Documentation, Demos, Workshops & Open Source  
