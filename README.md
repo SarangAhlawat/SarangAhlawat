@@ -1,5 +1,5 @@
 👋 Hey, I'm Sarang Ahlawat  
-# Developer • Community Builder • DevRel Enthusiast • Entrepreneur 
+# Developer • AI Engineer • Entrepreneur 
 
 🚀 I build impactful tech + communities + startups:
 - DevRel & Community Operations @ GDG Cloud Volunteer / President, Entrepreneurship Cell  
