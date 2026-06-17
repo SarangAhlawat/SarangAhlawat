@@ -88,6 +88,25 @@ RAG advisory pipeline · FAISS vector store · Mistral 7B · 4 ML models · SHAP
 
 </div>
 
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+
+
 ---
 
 ## 🏆 Highlights
