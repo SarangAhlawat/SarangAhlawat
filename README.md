@@ -38,7 +38,7 @@ sarang = {
 
 RAG advisory pipeline · FAISS vector store · Mistral 7B · 4 ML models · SHAP explainability · 23-district Punjab dataset · FastAPI + PostgreSQL backend
 
-> Crop recommendation, yield prediction, soil classification & water optimisation — all in one system.
+> Crop recommendation, yield prediction, soil classification & water optimisation - all in one system.
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/SarangAhlawat/KhetiMitra)
 [![Demo](https://img.shields.io/badge/Live_Demo-Try_It-00E5A0?style=flat)](https://khetimitra.vercel.app/)
@@ -83,8 +83,8 @@ RAG advisory pipeline · FAISS vector store · Mistral 7B · 4 ML models · SHAP
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaranngAhlawat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangAhlawat&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
