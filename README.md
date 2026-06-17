@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sarang&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Builder%20%7C%20Inventor&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=SarangAhlawat&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Builder%20%7C%20Inventor&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -83,7 +83,8 @@ RAG advisory pipeline · FAISS vector store · Mistral 7B · 4 ML models · SHAP
 
 <div align="center">
 
-<img height="165" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangAhlawat&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SarangAhlawat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangAhlawat&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
@@ -95,7 +96,7 @@ RAG advisory pipeline · FAISS vector store · Mistral 7B · 4 ML models · SHAP
 
 | 🌾 Real-World AI | 🎯 E-Cell President | 🏆 Hackathon Finalist |
 |:-:|:-:|:-:|
-| KrishiMitra AI · 23-district Punjab dataset · Production-grade RAG pipeline | Organised E-Summit 2026 · 200+ participants · Pitch Tank · Startup Expo | KrishiMitra AI pitched at 30-hour hackathon |
+| KhetiMitra AI · 23-district Punjab dataset · Production-grade RAG pipeline | Organised E-Summit 2026 · 200+ participants · Pitch Tank · Startup Expo | KrishiMitra AI pitched at 30-hour hackathon |
 
 </div>
 
