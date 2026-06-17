@@ -74,7 +74,6 @@ RAG advisory pipeline · FAISS vector store · Mistral 7B · 4 ML models · SHAP
 
 </div>
 
---
 
 ## GitHub Stats
 
