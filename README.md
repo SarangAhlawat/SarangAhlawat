@@ -91,9 +91,9 @@ RAG advisory pipeline · FAISS vector store · Mistral 7B · 4 ML models · SHAP
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SarangAhlawat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SarangAhlawat&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SarangAhlawat&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangAhlawat&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -101,7 +101,7 @@ RAG advisory pipeline · FAISS vector store · Mistral 7B · 4 ML models · SHAP
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SarangAhlawat&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SarangAhlawat&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
