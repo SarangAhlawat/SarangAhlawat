@@ -75,15 +75,6 @@ RAG advisory pipeline · FAISS vector store · Mistral 7B · 4 ML models · SHAP
 </div>
 
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangAhlawat&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-
 ## Highlights
 
 <div align="center">
